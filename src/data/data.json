@@ -3,28 +3,28 @@
     "id": "1",
     "title": "iPhone 15 Pro Max",
     "cash": 1000,
-    "image": "/casino-jackpot/src/assets/images/prizes/prize-phone.png",
+    "image": "/casino-jackpot/assets/prize-phone.png",
     "prizePlay": false
   },
   {
     "id": "2",
     "title": "Apple Watch 9 45mm",
     "cash": 1000,
-    "image": "/casino-jackpot/src/assets/images/prizes/prize-watch.png",
+    "image": "/casino-jackpot/assets/prize-watch.png",
     "prizePlay": false
   },
   {
     "id": "3",
     "title": "Apple Airpods Pro 2",
     "cash": 1000,
-    "image": "/casino-jackpot/src/assets/images/prizes/prize-airpods.png",
+    "image": "/casino-jackpot/assets/prize-airpods.png",
     "prizePlay": true
   },
   {
     "id": "4",
     "title": "Кэш-призы",
     "cash": 1000,
-    "image": "/casino-jackpot/src/assets/images/prizes/prize-money.png",
+    "image": "/casino-jackpot/assets/prize-money.png",
     "prizePlay": false,
     "isPrizeCash": true
   }
